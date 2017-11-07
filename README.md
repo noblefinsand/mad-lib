@@ -1,2 +1,2 @@
 # mad-lib
-Mad Lib game that I created
+Simple Mad Lib game that I created
